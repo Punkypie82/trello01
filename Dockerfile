@@ -1,0 +1,1 @@
+FROM hemanhp/djbase:latest
